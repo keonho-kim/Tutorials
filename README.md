@@ -30,4 +30,4 @@
 ## Utility
 - [Trafilatura (Scraper)](https://drive.google.com/file/d/1i9yUHNJuHLrHwfDZBcfErNzf4okp9ru2/view?usp=sharing)
 - [RapidsAI](https://drive.google.com/file/d/1mYJSrk5-1R4kzRkUD5TUeSLPG1CPjcGn/view?usp=sharing)
-    - GPU 기반으로 Numpy/Pandas/Scikit-Learn/NetworkX와 유사한 기능을 사용하기 위한 라이브러리
+    - GPU 기반으로 Numpy(cupy)/Pandas(cudf)/Scikit-Learn(cuml)/NetworkX(cugraph)의 기능을 사용하기 위한 라이브러리
