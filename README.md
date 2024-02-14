@@ -13,7 +13,7 @@
 - [ML/DL 입문 : Machine Learning부터 Deep Learning까지](https://drive.google.com/drive/folders/1zRRpqkwIvVRuwuISXJHSJ3m8MiIbdYdh?usp=sharing)
     - (2021~2022 부산대학교 인지심리학 연구실 강의 자료)
 
-- [PyTorch CheatSheet : 이것부터 기억하세요!](https://drive.google.c₩om/file/d/1BqgrSDVEjOU9FiQOCNsuwZbJNF06-1XI/view?usp=sharing)
+- [PyTorch CheatSheet : 이것부터 기억하세요!](https://drive.google.com/file/d/1BqgrSDVEjOU9FiQOCNsuwZbJNF06-1XI/view?usp=sharing)
 
 # Libraries & Trials
 
