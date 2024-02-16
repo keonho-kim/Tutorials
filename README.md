@@ -19,7 +19,7 @@
 
 ## LLM
 - [LLaMA-Cpp를 통한 LLM Quantization](https://drive.google.com/file/d/1rj3beu6Hhk72SBiBWAnLSZBgP2SqRUwO/view?usp=sharing)
-- [PEFT를 사용한 LLM의 SFT(Supervised fine-tuning)](https://drive.google.com/file/d/18JAu6atqe1YE2amEnmdC2cV46HF13IYv/view?usp=sharing)
+- [PEFT를 사용한 한국어 LLM의 INT4 Instruction SFT(Supervised fine-tuning)](https://drive.google.com/file/d/18JAu6atqe1YE2amEnmdC2cV46HF13IYv/view?usp=sharing)
 - [Graph-of-Thought](https://drive.google.com/file/d/1jQ5w_Rn2qj7m82k9MI-JcCWUuSpJY8mj/view?usp=sharing)
 - [Outlines](https://drive.google.com/file/d/1vlBlXBsxiZ0hrkTUGDw-wc36vkQzszLH/view?usp=sharing)
 - [HuggingFace의 한국어 기반 모델 리소스 사용량 테스트](https://drive.google.com/drive/folders/1J7bfyyNF5UhwMUGtukXDbRpCL9mkNQes?usp=sharing)
